@@ -1,0 +1,2 @@
+# component-scanning-Spring6
+ 
